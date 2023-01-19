@@ -9,7 +9,8 @@
 <body>
     <h1>Hello world</h1>
     <form action="">
-        <input type="text">
+        <label for="username"></label>
+        <input type="text" name = 'username'>
         <input type="text">
         <button>submit</button>
     </form>
