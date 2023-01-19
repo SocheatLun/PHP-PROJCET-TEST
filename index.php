@@ -8,5 +8,14 @@
 </head>
 <body>
     <h1>Hello world</h1>
+    <form action="">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <button>submit</button>
+    </form>
 </body>
 </html>
